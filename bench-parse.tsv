@@ -1,0 +1,5 @@
+format	standard	standard library	standard library error	{/:Bold itchyny/timefmt-go}	{/:Bold itchyny/timefmt-go} error	ncruces/go-strftime	ncruces/go-strftime error	csotherden/strftime	csotherden/strftime error	cockroachdb/strtime	cockroachdb/strtime error	going/strftime	going/strftime error	pbnjay/strptime	pbnjay/strptime error
+%H:%M:%S	15:04:05	32.36	0	20.26	0	65.56	0	66.18	0	136.6	0	148.2	0	182.1	0
+%Y-%m-%d	2006-01-02	35.23	0	20.6	0	69.39	0	65.05	0	277.8	0	149.9	0	182.9	0
+%Y-%m-%dT%H:%M:%S%z	2006-01-02T15:04:05-0700	71.65	0	38.59	0	143.4	0	137	0	293	0	339.1	0	430.6	0
+%a %b %d %H:%M:%S %Z %Y	Mon Jan 02 15:04:05 MST 2006	81.56	0	76.79	0	162.9	0	169	0	351.4	0	391.1	0	450.2	0

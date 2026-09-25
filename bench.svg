@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<svg 
+ width="1600" height="1882"
+ viewBox="0 0 1600 1882"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+<style>
+text,tspan { font-family: monospace; }
+.e { fill: none; color: black; stroke: currentColor;
+     stroke-width: 1; stroke-linecap: butt; stroke-linejoin: miter; }
+@media (prefers-color-scheme: dark) {
+  .e { color: #e6edf3 !important; }
+  [stroke="rgb(232,232,232)"] { stroke: #21262d !important; }
+  [stroke="rgb(204,204,204)"] { stroke: #30363d !important; }
+  [fill="rgb(95,99,104)"] { fill: #9198a1 !important; }
+  [fill="rgb(96,96,96)"] { fill: #9198a1 !important; }
+  [color="black"] { color: #e6edf3 !important; }
+  [fill="rgb(32,32,32)"] { fill: #e6edf3 !important; }
+  [stroke="rgb(32,32,32)"] { stroke: #e6edf3 !important; }
+  [stroke="rgb(128,128,128)"] { stroke: #6e7681 !important; }
+  [fill="#ffffff"] { fill: #0d1117 !important; }
+}
+</style>
+<g id="gnuplot_canvas">
+<rect x="0" y="0" width="1600" height="1882" fill="#ffffff"/>
+<defs>
+	<path id='gpPt0' stroke-width='0.2' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+</defs>
+<g fill="none" color="#ffffff" stroke="currentColor" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,250.4  '/>	<g transform="translate(347.5,245.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%H:%M:%S</tspan></text>
+	</g>
+	<g transform="translate(347.5,262.2)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(15:04:05)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,479.5  '/>	<g transform="translate(347.5,474.8)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%Y-%m-%d</tspan></text>
+	</g>
+	<g transform="translate(347.5,491.3)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(2006-01-02)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,708.5  '/>	<g transform="translate(347.5,703.9)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%Y-%m-%dT%H:%M:%S%z</tspan></text>
+	</g>
+	<g transform="translate(347.5,720.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(2006-01-02T15:04:05-0700)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,937.6  '/>	<g transform="translate(347.5,933)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%a %b %d %H:%M:%S %Z %Y</tspan></text>
+	</g>
+	<g transform="translate(347.5,949.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(Mon Jan 02 15:04:05 MST 2006)</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M355.2,1098 L355.2,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1098 L355.2,1089.8  '/>	<g transform="translate(355.2,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 0</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M423.3,1098 L423.3,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M423.3,1098 L423.3,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M491.3,1098 L491.3,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M491.3,1098 L491.3,1089.8  '/>	<g transform="translate(491.3,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 100</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M559.4,1098 L559.4,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M559.4,1098 L559.4,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M627.5,1098 L627.5,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M627.5,1098 L627.5,1089.8  '/>	<g transform="translate(627.5,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 200</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M695.6,1098 L695.6,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M695.6,1098 L695.6,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M763.6,1098 L763.6,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M763.6,1098 L763.6,1089.8  '/>	<g transform="translate(763.6,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 300</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M831.7,1098 L831.7,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M831.7,1098 L831.7,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M899.8,1098 L899.8,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M899.8,1098 L899.8,1089.8  '/>	<g transform="translate(899.8,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 400</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M967.9,1098 L967.9,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M967.9,1098 L967.9,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M1035.9,1098 L1035.9,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M1035.9,1098 L1035.9,1089.8  '/>	<g transform="translate(1035.9,1118.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 500</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M1104,1098 L1104,90  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M1104,1098 L1104,1093.9  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,90 L355.2,1098 L1104,1098 M1104,90 M355.2,90  '/></g>
+<g class="e">
+</g>
+	<g id="gnuplot_plot_1a"  fill="none"><title>gnuplot_plot_1a</title>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(355.2,250.4) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,479.5) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,708.5) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,937.6) scale(0)' color='rgb(148,0,211)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_2a" ><title>standard library</title>
+<g class="e">
+	<g transform="translate(1171.9,415.3)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >standard library</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(95,99,104)' points = '1143.7,415.8 1164.2,415.8 1164.2,407.6 1143.7,407.6 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,169.9 399.4,169.9 399.4,156.4 355.2,156.4 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,398.9 404.2,398.9 404.2,385.5 355.2,385.5 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,628 449,628 449,614.6 355.2,614.6 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,857.1 459.8,857.1 459.8,843.7 355.2,843.7 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_3a" ><title>itchyny/timefmt-go</title>
+<g class="e">
+	<g transform="translate(1171.9,443.3)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan  font-weight="bold" >itchyny/timefmt-go</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(66,133,244)' points = '1143.7,443.9 1164.2,443.9 1164.2,435.6 1143.7,435.6 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,183.3 382.7,183.3 382.7,169.8 355.2,169.8 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,412.4 384.1,412.4 384.1,398.9 355.2,398.9 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,641.5 411.9,641.5 411.9,628 355.2,628 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,870.5 421.9,870.5 421.9,857.1 355.2,857.1 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_4a" ><title>twmb/go-strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,471.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >twmb/go-strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(219,68,55)' points = '1143.7,471.9 1164.2,471.9 1164.2,463.7 1143.7,463.7 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,196.7 390.2,196.7 390.2,183.3 355.2,183.3 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,425.8 397.4,425.8 397.4,412.4 355.2,412.4 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,654.9 449,654.9 449,641.5 355.2,641.5 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,884 469,884 469,870.5 355.2,870.5 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_5a" ><title>imperfectgo/go-strftime*</title>
+<g class="e">
+	<g transform="translate(1171.9,499.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >imperfectgo/go-strftime</tspan><tspan  font-size="8.0" dy="-5.50px">*</tspan><tspan font-size="14.3" dy="5.50"></tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244,180,0)' points = '1143.7,500 1164.2,500 1164.2,491.7 1143.7,491.7 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,210.1 398.1,210.1 398.1,196.7 355.2,196.7 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,439.2 399.4,439.2 399.4,425.8 355.2,425.8 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,668.3 450.7,668.3 450.7,654.9 355.2,654.9 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,897.4 459.6,897.4 459.6,884 355.2,884 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_6a" ><title>fastly/go-utils/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,527.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >fastly/go-utils/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(15,157,88)' points = '1143.7,528 1164.2,528 1164.2,519.8 1143.7,519.8 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,223.5 394.3,223.5 394.3,210.1 355.2,210.1 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,452.6 403.6,452.6 403.6,439.2 355.2,439.2 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,681.7 459.2,681.7 459.2,668.3 355.2,668.3 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,910.8 512.3,910.8 512.3,897.4 355.2,897.4 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_7a" ><title>ncruces/go-strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,555.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >ncruces/go-strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(255,109,1)' points = '1143.7,556.1 1164.2,556.1 1164.2,547.8 1143.7,547.8 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,236.9 398,236.9 398,223.5 355.2,223.5 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,466 414.3,466 414.3,452.6 355.2,452.6 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,695.1 473.3,695.1 473.3,681.7 355.2,681.7 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,924.2 488.3,924.2 488.3,910.8 355.2,910.8 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_8a" ><title>KarpelesLab/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,583.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >KarpelesLab/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(70,189,198)' points = '1143.7,584.1 1164.2,584.1 1164.2,575.9 1143.7,575.9 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,250.4 412.9,250.4 412.9,236.9 355.2,236.9 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,479.5 420.2,479.5 420.2,466 355.2,466 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,708.5 469,708.5 469,695.1 355.2,695.1 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,937.6 487.4,937.6 487.4,924.2 355.2,924.2 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_9a" ><title>lestrrat-go/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,611.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >lestrrat-go/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(123,170,247)' points = '1143.7,612.2 1164.2,612.2 1164.2,603.9 1143.7,603.9 '/>
+		<polygon fill = 'rgb(123,170,247)' points = '355.2,263.8 426.2,263.8 426.2,250.4 355.2,250.4 '/>
+		<polygon fill = 'rgb(123,170,247)' points = '355.2,492.9 428.2,492.9 428.2,479.4 355.2,479.4 '/>
+		<polygon fill = 'rgb(123,170,247)' points = '355.2,722 473.1,722 473.1,708.5 355.2,708.5 '/>
+		<polygon fill = 'rgb(123,170,247)' points = '355.2,951.1 482.2,951.1 482.2,937.6 355.2,937.6 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_10a" ><title>jehiah/go-strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,639.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >jehiah/go-strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(230,124,115)' points = '1143.7,640.2 1164.2,640.2 1164.2,632 1143.7,632 '/>
+		<polygon fill = 'rgb(230,124,115)' points = '355.2,277.2 469.9,277.2 469.9,263.8 355.2,263.8 '/>
+		<polygon fill = 'rgb(230,124,115)' points = '355.2,506.3 497.5,506.3 497.5,492.9 355.2,492.9 '/>
+		<polygon fill = 'rgb(230,124,115)' points = '355.2,735.4 650.5,735.4 650.5,722 355.2,722 '/>
+		<polygon fill = 'rgb(230,124,115)' points = '355.2,964.5 691.1,964.5 691.1,951 355.2,951 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_11a" ><title>klauspost/lctime</title>
+<g class="e">
+	<g transform="translate(1171.9,667.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >klauspost/lctime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(171,71,188)' points = '1143.7,668.3 1164.2,668.3 1164.2,660 1143.7,660 '/>
+		<polygon fill = 'rgb(171,71,188)' points = '355.2,290.6 547.3,290.6 547.3,277.2 355.2,277.2 '/>
+		<polygon fill = 'rgb(171,71,188)' points = '355.2,519.7 566,519.7 566,506.3 355.2,506.3 '/>
+		<polygon fill = 'rgb(171,71,188)' points = '355.2,748.8 810.1,748.8 810.1,735.4 355.2,735.4 '/>
+		<polygon fill = 'rgb(171,71,188)' points = '355.2,977.9 716,977.9 716,964.5 355.2,964.5 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_12a" ><title>cactus/gostrftime</title>
+<g class="e">
+	<g transform="translate(1171.9,695.8)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >cactus/gostrftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(158,157,36)' points = '1143.7,696.3 1164.2,696.3 1164.2,688.1 1143.7,688.1 '/>
+		<polygon fill = 'rgb(158,157,36)' points = '355.2,304 538.3,304 538.3,290.6 355.2,290.6 '/>
+		<polygon fill = 'rgb(158,157,36)' points = '355.2,533.1 570.9,533.1 570.9,519.7 355.2,519.7 '/>
+		<polygon fill = 'rgb(158,157,36)' points = '355.2,762.2 813.9,762.2 813.9,748.8 355.2,748.8 '/>
+		<polygon fill = 'rgb(158,157,36)' points = '355.2,991.3 702.4,991.3 702.4,977.9 355.2,977.9 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_13a" ><title>going/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,723.8)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >going/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(121,85,72)' points = '1143.7,724.4 1164.2,724.4 1164.2,716.1 1143.7,716.1 '/>
+		<polygon fill = 'rgb(121,85,72)' points = '355.2,317.5 557,317.5 557,304 355.2,304 '/>
+		<polygon fill = 'rgb(121,85,72)' points = '355.2,546.5 565,546.5 565,533.1 355.2,533.1 '/>
+		<polygon fill = 'rgb(121,85,72)' points = '355.2,775.6 812.1,775.6 812.1,762.2 355.2,762.2 '/>
+		<polygon fill = 'rgb(121,85,72)' points = '355.2,1004.7 878.7,1004.7 878.7,991.3 355.2,991.3 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_14a" ><title>leekchan/timeutil</title>
+<g class="e">
+	<g transform="translate(1171.9,751.9)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >leekchan/timeutil</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(240,98,146)' points = '1143.7,752.4 1164.2,752.4 1164.2,744.2 1143.7,744.2 '/>
+		<polygon fill = 'rgb(240,98,146)' points = '355.2,330.9 647.9,330.9 647.9,317.4 355.2,317.4 '/>
+		<polygon fill = 'rgb(240,98,146)' points = '355.2,560 689.2,560 689.2,546.5 355.2,546.5 '/>
+		<polygon fill = 'rgb(240,98,146)' points = '355.2,789.1 1044.1,789.1 1044.1,775.6 355.2,775.6 '/>
+		<polygon fill = 'rgb(240,98,146)' points = '355.2,1018.1 993.6,1018.1 993.6,1004.7 355.2,1004.7 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_15a" ><title>cockroachdb/strtime</title>
+<g class="e">
+	<g transform="translate(1171.9,779.9)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >cockroachdb/strtime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(92,107,192)' points = '1143.7,780.5 1164.2,780.5 1164.2,772.2 1143.7,772.2 '/>
+		<polygon fill = 'rgb(92,107,192)' points = '355.2,344.3 655.7,344.3 655.7,330.9 355.2,330.9 '/>
+		<polygon fill = 'rgb(92,107,192)' points = '355.2,573.4 689.3,573.4 689.3,560 355.2,560 '/>
+		<polygon fill = 'rgb(92,107,192)' points = '355.2,802.5 1042,802.5 1042,789 355.2,789 '/>
+		<polygon fill = 'rgb(92,107,192)' points = '355.2,1031.6 995.9,1031.6 995.9,1018.1 355.2,1018.1 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_16a"  fill="none"><title>gnuplot_plot_16a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,164.8 L355.2,161.5 M355.2,393.9 L355.2,390.6 M355.2,623 L355.2,619.7 M355.2,852.1 L355.2,848.8
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(399.4,163.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(399.4,163.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(404.2,392.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(404.2,392.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(448.9,621.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(448.9,621.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(459.8,850.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(459.8,850.4) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_17a"  fill="none"><title>gnuplot_plot_17a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,178.2 L355.2,174.9 M355.2,407.3 L355.2,404 M355.2,636.4 L355.2,633.1 M355.2,865.5 L355.2,862.2
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(382.7,176.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt1' transform='translate(382.7,176.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(384.1,405.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt1' transform='translate(384.1,405.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(411.9,634.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt1' transform='translate(411.9,634.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(421.9,863.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt1' transform='translate(421.9,863.8) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_18a"  fill="none"><title>gnuplot_plot_18a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,191.6 L355.2,188.3 M355.2,420.7 L355.2,417.4 M355.2,649.8 L355.2,646.5 M355.2,878.9 L355.2,875.6
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(390.1,190) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt2' transform='translate(390.1,190) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(397.4,419.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt2' transform='translate(397.4,419.1) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(449,648.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt2' transform='translate(449,648.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(469,877.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt2' transform='translate(469,877.3) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_19a"  fill="none"><title>gnuplot_plot_19a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,205.1 L355.2,201.8 M355.2,434.1 L355.2,430.9 M355.2,663.2 L355.2,660 M355.2,892.3 L355.2,889
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(398.1,203.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt3' transform='translate(398.1,203.4) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(399.4,432.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt3' transform='translate(399.4,432.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(450.7,661.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt3' transform='translate(450.7,661.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(459.6,890.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt3' transform='translate(459.6,890.7) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_20a"  fill="none"><title>gnuplot_plot_20a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,218.5 L355.2,215.2 M355.2,447.6 L355.2,444.3 M355.2,676.6 L355.2,673.4 M355.2,905.7 L355.2,902.5
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(394.3,216.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt4' transform='translate(394.3,216.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(403.5,445.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt4' transform='translate(403.5,445.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(459.2,675) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt4' transform='translate(459.2,675) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(512.3,904.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt4' transform='translate(512.3,904.1) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_21a"  fill="none"><title>gnuplot_plot_21a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,231.9 L355.2,228.6 M355.2,461 L355.2,457.7 M355.2,690.1 L355.2,686.8 M355.2,919.2 L355.2,915.9
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(398,230.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt5' transform='translate(398,230.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(414.2,459.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt5' transform='translate(414.2,459.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(473.3,688.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt5' transform='translate(473.3,688.4) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(488.2,917.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt5' transform='translate(488.2,917.5) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_22a"  fill="none"><title>gnuplot_plot_22a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,245.3 L355.2,242 M355.2,474.4 L355.2,471.1 M355.2,703.5 L355.2,700.2 M355.2,932.6 L355.2,929.3
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(412.9,243.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(412.9,243.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(420.2,472.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(420.2,472.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(469,701.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(469,701.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(487.4,930.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(487.4,930.9) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_23a"  fill="none"><title>gnuplot_plot_23a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,258.7 L355.2,255.4 M355.2,487.8 L355.2,484.5 M355.2,716.9 L355.2,713.6 M355.2,946 L355.2,942.7
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(426.2,257.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt7' transform='translate(426.2,257.1) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(428.2,486.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt7' transform='translate(428.2,486.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(473.1,715.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt7' transform='translate(473.1,715.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(482.2,944.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt7' transform='translate(482.2,944.4) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_24a"  fill="none"><title>gnuplot_plot_24a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,272.1 L355.2,268.9 M355.2,501.2 L355.2,497.9 M355.2,730.3 L355.2,727 M355.2,959.4 L355.2,956.1
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(469.9,270.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(469.9,270.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(497.5,499.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(497.5,499.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(650.5,728.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(650.5,728.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(691.1,957.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(691.1,957.8) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_25a"  fill="none"><title>gnuplot_plot_25a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,285.6 L355.2,282.3 M355.2,514.7 L355.2,511.4 M355.2,743.7 L355.2,740.5 M355.2,972.8 L355.2,969.5
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(547.3,283.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(547.3,283.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(566,513) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(566,513) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(810.1,742.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(810.1,742.1) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(716,971.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(716,971.2) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_26a"  fill="none"><title>gnuplot_plot_26a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,299 L355.2,295.7 M355.2,528.1 L355.2,524.8 M355.2,757.2 L355.2,753.9 M355.2,986.2 L355.2,983
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(538.3,297.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(538.3,297.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(570.9,526.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(570.9,526.4) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(813.9,755.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(813.9,755.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(702.4,984.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(702.4,984.6) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_27a"  fill="none"><title>gnuplot_plot_27a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,312.4 L355.2,309.1 M355.2,541.5 L355.2,538.2 M355.2,770.6 L355.2,767.3 M355.2,999.7 L355.2,996.4
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(557,310.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(557,310.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(565,539.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(565,539.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(812.1,768.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(812.1,768.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(878.7,998) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(878.7,998) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_28a"  fill="none"><title>gnuplot_plot_28a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,325.8 L355.2,322.5 M355.2,554.9 L355.2,551.6 M355.2,784 L355.2,780.7 M355.2,1013.1 L355.2,1009.8
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(647.9,324.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(647.9,324.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(689.2,553.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(689.2,553.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(1044.1,782.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(1044.1,782.4) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(993.6,1011.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(993.6,1011.4) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_29a"  fill="none"><title>gnuplot_plot_29a</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,339.2 L355.2,335.9 M355.2,568.3 L355.2,565 M355.2,797.4 L355.2,794.1 M355.2,1026.5 L355.2,1023.2
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(655.7,337.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(655.7,337.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(689.3,566.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(689.3,566.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(1042,795.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(1042,795.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(995.9,1024.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(995.9,1024.9) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+<g fill="none" color="#ffffff" stroke="rgb(32,32,32)" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="rgb(32,32,32)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,90 L355.2,1098 L1104,1098 M1104,90 M355.2,90  '/>	<g transform="translate(729.6,1149.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan >Benchmark ns/op</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g transform="translate(1136,896.9)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text><tspan  font-size="6.6" dy="-4.50px">*</tspan><tspan  dy="4.50px"> imperfectgo/go-strftime reaches into the</tspan></text>
+	</g>
+	<g transform="translate(1136,910.4)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  internals of the time package with</tspan></text>
+	</g>
+	<g transform="translate(1136,923.9)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  go:linkname, and no longer builds with Go</tspan></text>
+	</g>
+	<g transform="translate(1136,937.4)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  1.23 or later, where those internals were</tspan></text>
+	</g>
+	<g transform="translate(1136,950.9)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  rewritten. It is benchmarked with Go 1.22</tspan></text>
+	</g>
+	<g transform="translate(1136,964.4)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  instead, and scaled by the ratio of the</tspan></text>
+	</g>
+	<g transform="translate(1136,977.9)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  standard library benchmarks of the two</tspan></text>
+	</g>
+	<g transform="translate(1136,991.4)" stroke="none" fill="rgb(96,96,96)" font-size="11.7"  text-anchor="start">
+		<text xml:space="preserve"><tspan  xml:space="preserve">  toolchains, so its bar is an estimate.</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g transform="translate(729.6,57.5)" stroke="none" fill="rgb(32,32,32)" font-size="19.5"  text-anchor="middle">
+		<text><tspan >Time formatting (strftime) libraries performance comparison (lower is better)</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1363.2  '/>	<g transform="translate(347.5,1358.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%H:%M:%S</tspan></text>
+	</g>
+	<g transform="translate(347.5,1375)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(15:04:05)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1477.7  '/>	<g transform="translate(347.5,1473.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%Y-%m-%d</tspan></text>
+	</g>
+	<g transform="translate(347.5,1489.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(2006-01-02)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1592.3  '/>	<g transform="translate(347.5,1587.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%Y-%m-%dT%H:%M:%S%z</tspan></text>
+	</g>
+	<g transform="translate(347.5,1604.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(2006-01-02T15:04:05-0700)</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1706.8  '/>	<g transform="translate(347.5,1702.2)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >%a %b %d %H:%M:%S %Z %Y</tspan></text>
+	</g>
+	<g transform="translate(347.5,1718.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="end">
+		<text><tspan >(Mon Jan 02 15:04:05 MST 2006)</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M355.2,1787 L355.2,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1787 L355.2,1778.8  '/>	<g transform="translate(355.2,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 0</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M423.3,1787 L423.3,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M423.3,1787 L423.3,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M491.3,1787 L491.3,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M491.3,1787 L491.3,1778.8  '/>	<g transform="translate(491.3,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 100</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M559.4,1787 L559.4,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M559.4,1787 L559.4,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M627.5,1787 L627.5,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M627.5,1787 L627.5,1778.8  '/>	<g transform="translate(627.5,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 200</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M695.6,1787 L695.6,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M695.6,1787 L695.6,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M763.6,1787 L763.6,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M763.6,1787 L763.6,1778.8  '/>	<g transform="translate(763.6,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 300</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M831.7,1787 L831.7,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M831.7,1787 L831.7,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M899.8,1787 L899.8,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M899.8,1787 L899.8,1778.8  '/>	<g transform="translate(899.8,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 400</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M967.9,1787 L967.9,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M967.9,1787 L967.9,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(204,204,204)' class="gridline"  d='M1035.9,1787 L1035.9,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M1035.9,1787 L1035.9,1778.8  '/>	<g transform="translate(1035.9,1807.1)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan > 500</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<path stroke='rgb(232,232,232)' class="gridline"  d='M1104,1787 L1104,1283  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M1104,1787 L1104,1782.9  '/></g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1283 L355.2,1787 L1104,1787 M1104,1283 M355.2,1283  '/></g>
+<g class="e">
+</g>
+	<g id="gnuplot_plot_1b"  fill="none"><title>gnuplot_plot_1b</title>
+<g class="e">
+	<use xlink:href='#gpPt0' transform='translate(355.2,1363.2) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,1477.7) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,1592.3) scale(0)' color='rgb(148,0,211)'/>
+	<use xlink:href='#gpPt0' transform='translate(355.2,1706.8) scale(0)' color='rgb(148,0,211)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_2b" ><title>standard library</title>
+<g class="e">
+	<g transform="translate(1171.9,1454.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >standard library</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(95,99,104)' points = '1143.7,1455 1164.2,1455 1164.2,1446.7 1143.7,1446.7 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,1329.7 399.3,1329.7 399.3,1316.2 355.2,1316.2 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,1444.2 403.2,1444.2 403.2,1430.8 355.2,1430.8 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,1558.7 452.8,1558.7 452.8,1545.3 355.2,1545.3 '/>
+		<polygon fill = 'rgb(95,99,104)' points = '355.2,1673.3 466.2,1673.3 466.2,1659.8 355.2,1659.8 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_3b" ><title>itchyny/timefmt-go</title>
+<g class="e">
+	<g transform="translate(1171.9,1482.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan  font-weight="bold" >itchyny/timefmt-go</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(66,133,244)' points = '1143.7,1483 1164.2,1483 1164.2,1474.8 1143.7,1474.8 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,1343.1 382.8,1343.1 382.8,1329.6 355.2,1329.6 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,1457.6 383.3,1457.6 383.3,1444.2 355.2,1444.2 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,1572.2 407.8,1572.2 407.8,1558.7 355.2,1558.7 '/>
+		<polygon fill = 'rgb(66,133,244)' points = '355.2,1686.7 459.8,1686.7 459.8,1673.3 355.2,1673.3 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_4b" ><title>ncruces/go-strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,1510.5)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >ncruces/go-strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(219,68,55)' points = '1143.7,1511.1 1164.2,1511.1 1164.2,1502.8 1143.7,1502.8 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,1356.5 444.5,1356.5 444.5,1343 355.2,1343 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,1471 449.7,1471 449.7,1457.6 355.2,1457.6 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,1585.6 550.4,1585.6 550.4,1572.2 355.2,1572.2 '/>
+		<polygon fill = 'rgb(219,68,55)' points = '355.2,1700.1 577,1700.1 577,1686.7 355.2,1686.7 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_5b" ><title>csotherden/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,1538.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >csotherden/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244,180,0)' points = '1143.7,1539.1 1164.2,1539.1 1164.2,1530.9 1143.7,1530.9 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,1369.9 445.3,1369.9 445.3,1356.5 355.2,1356.5 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,1484.5 443.8,1484.5 443.8,1471 355.2,1471 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,1599 541.7,1599 541.7,1585.6 355.2,1585.6 '/>
+		<polygon fill = 'rgb(244,180,0)' points = '355.2,1713.5 585.3,1713.5 585.3,1700.1 355.2,1700.1 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_6b" ><title>cockroachdb/strtime</title>
+<g class="e">
+	<g transform="translate(1171.9,1566.6)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >cockroachdb/strtime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(15,157,88)' points = '1143.7,1567.2 1164.2,1567.2 1164.2,1558.9 1143.7,1558.9 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,1383.3 541.2,1383.3 541.2,1369.9 355.2,1369.9 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,1497.9 733.4,1497.9 733.4,1484.4 355.2,1484.4 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,1612.4 754.1,1612.4 754.1,1599 355.2,1599 '/>
+		<polygon fill = 'rgb(15,157,88)' points = '355.2,1727 833.6,1727 833.6,1713.5 355.2,1713.5 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_7b" ><title>going/strftime</title>
+<g class="e">
+	<g transform="translate(1171.9,1594.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >going/strftime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(255,109,1)' points = '1143.7,1595.2 1164.2,1595.2 1164.2,1587 1143.7,1587 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,1396.7 557,1396.7 557,1383.3 355.2,1383.3 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,1511.3 559.3,1511.3 559.3,1497.8 355.2,1497.8 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,1625.8 816.9,1625.8 816.9,1612.4 355.2,1612.4 '/>
+		<polygon fill = 'rgb(255,109,1)' points = '355.2,1740.4 887.7,1740.4 887.7,1727 355.2,1727 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_8b" ><title>pbnjay/strptime</title>
+<g class="e">
+	<g transform="translate(1171.9,1622.7)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="start">
+		<text><tspan >pbnjay/strptime</tspan></text>
+	</g>
+</g>
+<g class="e">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(70,189,198)' points = '1143.7,1623.3 1164.2,1623.3 1164.2,1615 1143.7,1615 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,1410.2 603.1,1410.2 603.1,1396.7 355.2,1396.7 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,1524.7 604.2,1524.7 604.2,1511.3 355.2,1511.3 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,1639.2 941.4,1639.2 941.4,1625.8 355.2,1625.8 '/>
+		<polygon fill = 'rgb(70,189,198)' points = '355.2,1753.8 968.1,1753.8 968.1,1740.4 355.2,1740.4 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_9b"  fill="none"><title>gnuplot_plot_9b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1324.6 L355.2,1321.3 M355.2,1439.1 L355.2,1435.8 M355.2,1553.7 L355.2,1550.4 M355.2,1668.2 L355.2,1664.9
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(399.3,1322.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(399.3,1322.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(403.2,1437.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(403.2,1437.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(452.8,1552) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(452.8,1552) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(466.2,1666.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt8' transform='translate(466.2,1666.6) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_10b"  fill="none"><title>gnuplot_plot_10b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1338 L355.2,1334.7 M355.2,1452.5 L355.2,1449.3 M355.2,1567.1 L355.2,1563.8 M355.2,1681.6 L355.2,1678.3
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(382.8,1336.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(382.8,1336.4) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(383.2,1450.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(383.2,1450.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(407.7,1565.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(407.7,1565.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(459.7,1680) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt9' transform='translate(459.7,1680) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_11b"  fill="none"><title>gnuplot_plot_11b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1351.4 L355.2,1348.1 M355.2,1466 L355.2,1462.7 M355.2,1580.5 L355.2,1577.2 M355.2,1695.1 L355.2,1691.8
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(444.5,1349.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(444.5,1349.8) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(449.7,1464.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(449.7,1464.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(550.4,1578.9) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(550.4,1578.9) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(577,1693.4) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt10' transform='translate(577,1693.4) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_12b"  fill="none"><title>gnuplot_plot_12b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1364.8 L355.2,1361.5 M355.2,1479.4 L355.2,1476.1 M355.2,1593.9 L355.2,1590.6 M355.2,1708.5 L355.2,1705.2
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(445.3,1363.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(445.3,1363.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(443.8,1477.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(443.8,1477.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(541.7,1592.3) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(541.7,1592.3) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(585.3,1706.8) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt11' transform='translate(585.3,1706.8) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_13b"  fill="none"><title>gnuplot_plot_13b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1378.3 L355.2,1375 M355.2,1492.8 L355.2,1489.5 M355.2,1607.3 L355.2,1604.1 M355.2,1721.9 L355.2,1718.6
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(541.2,1376.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(541.2,1376.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(733.4,1491.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(733.4,1491.2) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(754.1,1605.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(754.1,1605.7) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(833.6,1720.2) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt12' transform='translate(833.6,1720.2) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_14b"  fill="none"><title>gnuplot_plot_14b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1391.7 L355.2,1388.4 M355.2,1506.2 L355.2,1502.9 M355.2,1620.8 L355.2,1617.5 M355.2,1735.3 L355.2,1732
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(557,1390) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(557,1390) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(559.3,1504.6) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(559.3,1504.6) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(816.9,1619.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(816.9,1619.1) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(887.7,1733.7) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt13' transform='translate(887.7,1733.7) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_15b"  fill="none"><title>gnuplot_plot_15b</title>
+<g class="e">
+	<path stroke='rgb(32,32,32)'  d='M355.2,1405.1 L355.2,1401.8 M355.2,1519.6 L355.2,1516.3 M355.2,1634.2 L355.2,1630.9 M355.2,1748.7 L355.2,1745.4
+		 '/></g>
+<g class="e">
+	<use xlink:href='#gpPt6' transform='translate(603.1,1403.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt14' transform='translate(603.1,1403.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(604.2,1518) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt14' transform='translate(604.2,1518) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(941.4,1632.5) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt14' transform='translate(941.4,1632.5) scale(0)' color='rgb(32,32,32)'/>
+	<use xlink:href='#gpPt6' transform='translate(968.1,1747.1) scale(4.1)' color='#ffffff'/>
+</g>
+<g class="e">
+	<use xlink:href='#gpPt14' transform='translate(968.1,1747.1) scale(0)' color='rgb(32,32,32)'/>
+</g>
+	</g>
+<g fill="none" color="#ffffff" stroke="rgb(32,32,32)" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="rgb(32,32,32)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g class="e">
+	<path stroke='rgb(128,128,128)'  d='M355.2,1283 L355.2,1787 L1104,1787 M1104,1283 M355.2,1283  '/>	<g transform="translate(729.6,1838.4)" stroke="none" fill="rgb(32,32,32)" font-size="14.3"  text-anchor="middle">
+		<text><tspan >Benchmark ns/op</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+<g class="e">
+	<g transform="translate(729.6,1250.5)" stroke="none" fill="rgb(32,32,32)" font-size="19.5"  text-anchor="middle">
+		<text><tspan >Time parsing (strptime) libraries performance comparison (lower is better)</tspan></text>
+	</g>
+</g>
+<g class="e">
+</g>
+</g>
+</svg>
